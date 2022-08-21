@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/smartinsdev/card-component-mentor)
+- Live Site URL: [Deploy](https://smartinsdev.github.io/card-component-mentor/)
 
 ## My process
 
@@ -71,5 +71,5 @@ See how it looks below:
 
 ## Author
 
-- Frontend Mentor - [@ysmartinsdev](https://www.frontendmentor.io/profile/smartinsdev)
+- Frontend Mentor - [@smartinsdev](https://www.frontendmentor.io/profile/smartinsdev)
 - Twitter - [@smartinsjr](https://www.twitter.com/@smartinsjr)
