@@ -148,7 +148,7 @@ picture img {
 @media (min-width: 770px) {
     main {
         grid-template-columns: 1fr 1fr;
-        max-width: 530px;
+        max-width: 750px;
     }
 
     picture img {
@@ -159,15 +159,34 @@ picture img {
     .content {
         border-radius: 0 8px 8px 0;
         display: flex;
-        padding: 1rem;
+        padding: 32px;
         flex-direction: column;
+        gap: 20px
     }
-
+ 
     .content h2 {
         font-size: var(--md);
+        letter-spacing: .35rem;
+    }
+
+    .content h1 {
+        font-size: var(--xlg);
+        line-height: 1.2;
+    }
+
+    .content p {
+        font-size: 1rem;
+    }
+
+    .price span:first-child {
+        font-size: var(--xlg);
     }
 
     .price span:last-child {
         font-size: var(--md);
+    }
+
+    .btn {
+        padding: 16px 20px;
     }
 }
