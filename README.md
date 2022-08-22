@@ -72,4 +72,4 @@ See how it looks below:
 ## Author
 
 - Frontend Mentor - [@smartinsdev](https://www.frontendmentor.io/profile/smartinsdev)
-- Twitter - [@smartinsjr](https://www.twitter.com/@smartinsjr)
+- Twitter - [@smartinsdev](https://www.twitter.com/@smartinsdev)
